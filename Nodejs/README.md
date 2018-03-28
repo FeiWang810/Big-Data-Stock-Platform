@@ -22,3 +22,4 @@ If your all your application run in a docker-machine named bigdata, and the ip o
 ```sh
 node index.js --port=3000 --redis_host=192.168.99.100 --redis_port=6379 --subscribe_topic=average-stock-price
 ```
+![image](https://github.com/FeiWang810/Big-Data-Stock-Platform/blob/master/images/Nodejs.png)
