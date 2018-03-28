@@ -24,3 +24,4 @@ The first IP address is my docker-machine address.
 
 The second average-stock-price is my redis channel followed by redis host and redis port.
 ```
+![image](https://github.com/FeiWang810/Big-Data-Stock-Platform/blob/master/images/Redis.png)
