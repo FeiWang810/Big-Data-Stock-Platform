@@ -25,3 +25,5 @@ python producer.py AAPL stock-analyzer 192.168.99.100:9092
 export ENV_CONFIG_FILE=`pwd`/config/dev.cfg
 python flask-data-producer.py
 ```
+
+![image](https://github.com/FeiWang810/Big-Data-Stock-Platform/blob/master/images/Kafka.png)
