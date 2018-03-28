@@ -13,3 +13,5 @@ If your Spark run in a docker-machine named bigdata, and the ip of the virtual m
 ```sh
 spark-submit --jars spark-streaming-kafka-0-8-assembly_2.11-2.0.0.jar stream-processing.py stock-analyzer average-stock-price 192.168.99.100:9092
 ```
+
+![image](https://github.com/FeiWang810/Big-Data-Stock-Platform/blob/master/images/Spark.png)
